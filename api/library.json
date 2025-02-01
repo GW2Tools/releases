@@ -1,0 +1,18 @@
+[
+	{
+		"id": -2125476477,
+		"name": "Boss Health",
+		"author": "Nemesis",
+		"description": "Shows the absolute health value of instanced bosses.",
+		"download": "https://gw2tools.github.io/releases/bosshealth_unlocked.dll",
+		"addon_policy_tier": 2
+	},
+  {
+		"id": 1409221737,
+		"name": "Loadouts",
+		"author": "Nemesis",
+		"description": "Inspect other players loadouts.",
+		"download": "https://gw2tools.github.io/releases/loadouts.dll",
+		"addon_policy_tier": 2
+	},
+]
